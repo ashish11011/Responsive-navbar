@@ -1,2 +1,2 @@
 # Responsive-navbar
-To open the <a herif="" >Click Here</a>
+To open the <a href="https://www.google.com/" target="_blank">Google</a>
